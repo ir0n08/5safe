@@ -1,5 +1,5 @@
 # Threat types
-- exloration
+- exploration
 	- technical (you´re classical pentesting)
 		- gain access
 		- deny access
@@ -30,7 +30,7 @@ Which CIA area is most vital to the SoS?
 - integrety
 	- output wrong data to road devices
 - avalibility
-	- 
+	- D-DOS
 <br><br>
 
 # Assets
@@ -44,6 +44,7 @@ Which CIA area is most vital to the SoS?
 - edges
 	- cameras 
 	- road sign devices
+
 <br><br>
 
 # Questions:
