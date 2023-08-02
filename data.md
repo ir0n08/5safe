@@ -116,3 +116,33 @@ Which CIA area is most vital to the SoS?
 | T-1	|    			  	  |       					|
 | T-2 			|    			  	  |       					|
 | ... 			|    			  	  |       					|
+
+*Attacker list*
+
+
+| ID   | Attacker 	  | Skill  		|Financial  		| Insights		| Access  		|
+| ----------- | -----------| -----------| -----------| -----------| ----------- |
+| A-1   | Criminal 	  | Yes  		|No  		| No		| Yes  		|
+| A-2   | Hacktivist 	  | Partial  		|No  		| No		| Yes  		|
+| A-3   | *Lausbuben* 	  | No  		|No  		| No		| Yes  		|
+| A-x   | ... 	  | x  		|x  		| x		| x  		|
+
+
+*SEM Table*
+
+| Attack   | Controller	  | Camera | Roadside Equipment | Network layers | TOTAL		|
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| S-1 | ... |... |... |... |... |
+| S-1 | ... |... |... |... |... |
+| T-1 | ... |... |... |... |... |
+| T-2 | ... |... |... |... |... |
+| RP-1 | ... |... |... |... |... |
+| ID-1 | ... |... |... |... |... |
+| ID-2 | ... |... |... |... |... |
+| DoS-1 | ... |... |... |... |... |
+| DoS-2 | ... |... |... |... |... |
+| EoP-1 | ... |... |... |... |... |
+| EoP-2 | ... |... |... |... |... |
+| EoP-3 | ... |... |... |... |... |
+
+
