@@ -74,10 +74,10 @@ Which CIA area is most vital to the SoS?
 
 | System    		| CIA Classification 	  | Security Class 	  		|
 | ----------- 		| ----------- 			  | ----------- 			|
-| Controller      	| BAB   			  	  | 3      					|
+| Controller      	| CBB   			  	  | 1      					|
 | Cameras  			| BAB   			  	  | 3      					|
 | Roadside Equipment| BAB   			  	  | 3      					|
-| Network 			| BAB   			  	  | 3      					|
+| Network 			| -   			  	  | -      					|
 
 *Generate ARC-IT Table from security classes*
 
@@ -145,4 +145,6 @@ Which CIA area is most vital to the SoS?
 | EoP-2 | ... |... |... |... |... |
 | EoP-3 | ... |... |... |... |... |
 
+
+*Decomposed SEM for earch system type?*
 
