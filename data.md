@@ -19,6 +19,7 @@
 - Inavaliblity
 	- GPS spoofing
 - Data privacy
+	- Road user tracking / unique signature
 - Legality
 	- Vandlisem
 	- Provability in case of examination (digital forensics)
@@ -58,3 +59,60 @@ Which CIA area is most vital to the SoS?
 
 # Todos:
 - go through STRIDE and add points
+- Framework useability objectiv/subjective
+
+
+
+# Case study
+
+## entities
+- Controller
+- Camera
+- Road signs (Roadside Equipment )
+- 5G network (Network layers)
+<br>
+
+| System    		| CIA Classification 	  | Security Class 	  		|
+| ----------- 		| ----------- 			  | ----------- 			|
+| Controller      	| BAB   			  	  | 3      					|
+| Cameras  			| BAB   			  	  | 3      					|
+| Roadside Equipment| BAB   			  	  | 3      					|
+| Network 			| BAB   			  	  | 3      					|
+
+*Generate ARC-IT Table from security classes*
+
+*Generate security objects with STRIDE*
+
+## Spoofing
+- GPS spoofing
+- Misuse of sensor input (ie use heat signatures to block traffic)
+
+## Tampering
+- Pysical camera access
+- Maupilating Road Equp function
+
+## Repudiation
+- Spyware on controlling sys
+
+## Information Disclosures
+- Livestreaming camera/sensor feed
+- Tracking of individuals
+
+## Denial-of-Service
+- Network-based attack
+- Sensor-based attack (ie blinding sensor with laser)
+
+## Elevation-of-Privileges
+- Gain access to controller via cameras
+- Gain access to controller via cameras
+- Gain access to further sys via controller
+
+*Sec requ table*
+
+| Attack    		| CVE 	  | Desc 	  		|
+| ----------- 		| ----------- 			  | ----------- 			|
+| S-1      	|    			  	  |       					|
+| S-2  			|    			  	  |       					|
+| T-1	|    			  	  |       					|
+| T-2 			|    			  	  |       					|
+| ... 			|    			  	  |       					|
